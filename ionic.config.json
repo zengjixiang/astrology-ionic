@@ -1,0 +1,8 @@
+{
+  "name": "astrology-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "bb28f583"
+}
